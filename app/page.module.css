@@ -1,0 +1,23 @@
+.main {
+  padding: 6rem;
+  line-height: 1.5em;
+  white-space: pre-line;
+  background-color: white;
+}
+
+.description {
+  font-size: 0.85rem;
+  width: 40%;
+  font-family: var(--font-mono);
+  white-space: pre-line;
+}
+
+.ul {
+  padding-left: 3em;
+  white-space: pre-line;  
+}
+
+.a {
+  padding-left: 2em;
+  white-space: pre-line;  
+}
