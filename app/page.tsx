@@ -12,18 +12,18 @@ export default function Home() {
 
       <div className={styles.description}> 
         <div>
-        hey, world. i'm <u><a href="https://www.linkedin.com/in/dcliem/" target="_blank">Daniel</a></u>. i'm happily married, a tech enthusiast, a prolific investor, an addicted athlete & a dog lover. i helplessly build things in my spare time
+        hey, world. i&apos;m <u><a href="https://www.linkedin.com/in/dcliem/" target="_blank">Daniel</a></u>. i&apos;m happily married, a tech enthusiast, a prolific investor, an addicted athlete & a dog lover. i helplessly build things in my spare time.
         </div>
         <br/>
         <ul className={styles.ul}>
           <li>
             currently co-founding <u><a href="https://gentrace.ai/" target="_blank">Gentrace.ai</a></u> – an observability platform for LLMs / gen AI companies, 
-            with <u><a href="https://www.linkedin.com/in/dsafreno/" target="_blank">Doug Safreno</a></u> & <u><a href="https://www.linkedin.com/in/vnair611/" target="_blank">Vivek Nair</a></u>. we have $3.5M seed
+            with <u><a href="https://www.linkedin.com/in/dsafreno/" target="_blank">Doug Safreno</a></u> & <u><a href="https://www.linkedin.com/in/vnair611/" target="_blank">Vivek Nair</a></u>. we have $3.5M seed. we believe AI is going to change the world
           </li>   
           <br/>
           <li>
             actively investing in future of work and SaaS: productivity tools, infra / devOps, AI, remote work, vertical SaaS, mobile. 
-            both personally and as a scout @ <u><a href="https://www.craftventures.com/" target="_blank">Craft ventures</a></u> (David Sack's fund):
+            both personally and as a scout @ <u><a href="https://www.craftventures.com/" target="_blank">Craft ventures</a></u> (David Sack&apos;s fund):
           </li>
           <br/>
           <a>
@@ -73,7 +73,7 @@ export default function Home() {
           </a>
           <li>
             previously did my tour around SV, including: 
-            investor @ Obvious ventures (Ev William's fund), product @ Uber (platform), Dropbox & FiscalNote (all three of which have since gone public), 
+            investor @ Obvious ventures (Ev William&apos;s fund), product @ Uber (platform), Dropbox & FiscalNote (all three of which have since gone public), 
             specializing in devOps, mobile & SaaS products
           </li>
           <br/>   
@@ -95,7 +95,7 @@ export default function Home() {
           </li>   
           <br/>   
           <li>
-            occassionally on <u><a href="https://twitter.com/dcliem" target="_blank">Twitter</a></u>, even though I think it's largely a distraction..
+            occassionally on <u><a href="https://twitter.com/dcliem" target="_blank">Twitter</a></u>, even though I think it&apos;s largely a distraction..
           </li>     
         </ul>    
         

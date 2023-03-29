@@ -1,15 +1,30 @@
 .main {
-  padding: 6rem;
   line-height: 1.5em;
   white-space: pre-line;
   background-color: white;
 }
 
 .description {
+  padding: 2em;
+  padding-top: 6em;
   font-size: 0.85rem;
-  width: 40%;
+  width: 100%;
   font-family: var(--font-mono);
   white-space: pre-line;
+}
+
+@media only screen and (min-width: 550px) {
+  .description {
+    padding: 6em;
+    width: 100%;
+  }
+}
+
+@media only screen and (min-width: 1200px) {
+  .description {
+    padding: 6em;
+    width: 45%;
+  }
 }
 
 .ul {
